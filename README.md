@@ -15,3 +15,5 @@ This project is a simple fuel consumption calculator written in PHP. It lets you
 
 ## License
 This project is distributed under the terms of the Mozilla Public License 2.0. See `LICENSE.md` for details.
+
+I tested Codex with this code, to see what he can do and how he could explain it to a noob, really intressting the refactor isn't toooooo bad but well.
